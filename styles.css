@@ -70,9 +70,19 @@ footer {
     margin-left: 100px;
 }
 
+.howm2 {
+    text-align: left; 
+    margin-left: 100px;
+}
+
 hr {
     color: red;
     width: 75px;
     margin-left: 89px;
     margin-bottom: -30px;
+} 
+
+.howm section {
+    width: 250px;
+    text-align: justify;
 }
