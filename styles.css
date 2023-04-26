@@ -1,0 +1,78 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    background-color: rgb(18, 17, 17);
+    height: 20px;
+    width: 100%;
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+nav ul li {
+    display: inline; 
+    width: 100%;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+.health-i {
+    background-color: rgb(101, 101, 246);
+    padding: 40px; 
+    color: rgb(237, 229, 217);
+    text-align: left; 
+    font-size: 12px;
+    height: 400px;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.welcome h1 {
+    text-align: center;
+}
+
+.welcome p {
+    width: 100px;
+    height: 520px; 
+    text-align: justify;
+    display: inline-block;
+
+} 
+
+.more-questions {
+text-align: center;
+}
+
+.more-questions h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(20, 18, 18);
+    color: whitesmoke;
+    
+}
+
+.howm {
+    text-align: left; 
+    margin-left: 100px;
+}
+
+hr {
+    color: red;
+    width: 75px;
+    margin-left: 89px;
+    margin-bottom: -30px;
+}
